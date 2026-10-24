@@ -1,0 +1,19 @@
+# Archivos generados
+/bin/
+/build/
+/dist/
+*.class
+
+# Configuracion local de NetBeans
+/nbproject/private/
+
+# Bases de datos y respaldos SQL
+*.accdb
+*.laccdb
+*.mdb
+*.sql
+
+# Credenciales locales
+.env
+.env.*
+!.env.example

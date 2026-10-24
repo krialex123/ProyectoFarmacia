@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejecutar FARMAVITAL",
+            "request": "launch",
+            "mainClass": "FORMULARIOS.AUTENTICACION_USUARIO",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
